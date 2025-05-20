@@ -40,13 +40,13 @@ A full-stack e-commerce web application built with **Django**, **Django REST Fra
 
 ## 🛠️ Installation (Development)
 
-1. Clone the Repository  
-```bash
+### 1. Clone the Repository  
+
 git clone https://github.com/software-dev0309/django-react-fullstack-ecommerce-app.git
 cd  django-react-fullstack-ecommerce-app
 
-2. Backend Setup (Django)
-```bash
+### 2. Backend Setup (Django)
+
 Copy
 Edit
 cd backend
@@ -58,8 +58,8 @@ python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
 
-3. Frontend Setup (React)
-```bash
+### 3. Frontend Setup (React)
+
 Copy
 Edit
 cd frontend
