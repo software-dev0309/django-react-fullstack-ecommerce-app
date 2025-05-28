@@ -60,4 +60,4 @@ python manage.py runserver
 
 cd frontend<br>
 npm install<br>
-npm start
+npm start<br>
